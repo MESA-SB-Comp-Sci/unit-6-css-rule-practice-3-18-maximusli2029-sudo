@@ -1,0 +1,25 @@
+header {
+    color:white;
+    background-color: black;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: whitesmoke;
+}
+
+main {
+    background-color: purple;
+}
+
+p {
+    color:white;
+    text-align: center;
+    text-decoration: underline wavy;
+}
+
+footer {
+    background-color: black;
+}
+
+html {
+    background-image: ;
+}
